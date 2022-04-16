@@ -5,7 +5,10 @@
 ⚡ Fun fact: I love traveling and playing golf! I've been to Thailand, Italy, Mexico, Japan, Montreal and South Korea. Favorite place so far has to be Japan!
 
 Let's connect!
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&&logo=linkedin&logoColor=white)
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/sungypaik/)
+
+Technologies
 
 ![JavaScript](https://camo.githubusercontent.com/5e1f92d32f3d85774076e291fff71b7bf1412bb3126fda90ffeaee91256a7bf0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
 ![React](https://camo.githubusercontent.com/6ed08155432e8067723016bff7259abcec0053afc8324e78b2d5081d9a24fd60/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)
