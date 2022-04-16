@@ -10,11 +10,21 @@ Let's connect!
 
 Technologies
 
-![JavaScript](https://camo.githubusercontent.com/5e1f92d32f3d85774076e291fff71b7bf1412bb3126fda90ffeaee91256a7bf0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
-![React](https://camo.githubusercontent.com/6ed08155432e8067723016bff7259abcec0053afc8324e78b2d5081d9a24fd60/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)
-![MongoDB](https://camo.githubusercontent.com/5fa4022c22d651eae38457b4a653e04049afdd93b24218f8a6afdaa2fdac5989/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
-![MySQL](https://camo.githubusercontent.com/59c1b3b3527dd959ff8bfaa5873087171e1b9d78924c6f58c019f42bdd136ea1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://camo.githubusercontent.com/358aeae77dc974d1992911b2e09fa7e9fe082d22795fa20e39789432f81462a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3436613266313f266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)
-![GitHub](https://camo.githubusercontent.com/9a7e52938f08ba8aab9f395df54fbc6a44aaf622101a813481ded826ed6ab2b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://camo.githubusercontent.com/b984d6590937b85d59f049aae6db057b53716428b67dca353ea94064de2f3a49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f6c6f676f3d676974266c6f676f436f6c6f723d7768697465)
-![Python](https://camo.githubusercontent.com/724dd28a7f4c15f0b5d5b789b674f3073fa709850e2c7a3a47dad3f81ac680f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3134333534433f266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
+
