@@ -4,7 +4,7 @@
 
 ⚡ Fun fact: I love traveling and playing golf! I've been to Thailand, Italy, Mexico, Japan, Montreal and South Korea. Favorite place so far has to be Japan!
 
-## Let's connect!
+## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sungypaik/)
 
