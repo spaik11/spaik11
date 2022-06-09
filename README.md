@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in New York City
-* 🖥️  See my portfolio at [MyPortfolio](sungpaik.com)
+* 🖥️  See my portfolio at [MyPortfolio](https://www.sungpaik.com/)
 * ✉️  You can contact me at [sungypaik@gmail.com](mailto:sungypaik@gmail.com)
 
 ### Skills
