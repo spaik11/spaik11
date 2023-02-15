@@ -1,7 +1,7 @@
 Hi 👋 My name is Sung
 =====================
 
-I'm currently a full stack Software Engineer at Aspen Capital
+I'm a Software Engineer with a passion for helping others and building projects
 -----------------
 
 * 🌍  I'm based in New York City
