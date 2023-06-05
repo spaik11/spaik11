@@ -1,6 +1,3 @@
-Hi 👋 My name is Sung
-=====================
-
 I'm a Software Engineer with a passion for helping others and building projects
 -----------------
 
